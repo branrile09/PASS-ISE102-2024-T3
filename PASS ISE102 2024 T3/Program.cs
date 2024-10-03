@@ -6,6 +6,7 @@
         {
 
             //Everyones hellos :)
+            // :D
             Console.WriteLine("Welcome everyone to PASS T3 for ISE102");
 
             Console.WriteLine("Hello RB  here :) ");
@@ -29,6 +30,9 @@
              string Name = Console.ReadLine();
             // display username 
             Console.WriteLine("Hi," + Name + "!");
+
+
+
         } 
 
 
