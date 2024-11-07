@@ -115,7 +115,7 @@ namespace PASS_Wk7
 
     }
 
-    internal class Yhact : Boat
+    internal class Yacht : Boat
     {
         float FuelAmmount = 0;
     }
